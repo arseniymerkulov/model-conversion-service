@@ -1,0 +1,1 @@
+# Directory for storing model reponses from web service
